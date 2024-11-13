@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286622579104",
+    "project_id": "delivery-app-4307f",
+    "storage_bucket": "delivery-app-4307f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286622579104:android:a3d2f28f6cb301347a8cc5",
+        "android_client_info": {
+          "package_name": "dev.dna.deliveryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVKWSNrRTobX5kDhyw4OI_W-Ge8kUSNZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
